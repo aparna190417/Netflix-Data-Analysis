@@ -64,7 +64,7 @@ The dataset is a CSV file containing Netflix titles with metadata such as:
 - Duration column had mixed formats (minutes for movies and seasons for TV shows)
 
 ---
-## Project folder Structure
+## Project Structure
 
 Netflix-Data-Analysis/
 │── notebook/ 
