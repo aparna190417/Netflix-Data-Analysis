@@ -67,9 +67,10 @@ The dataset is a CSV file containing Netflix titles with metadata such as:
 ## Project folder Structure
 
 Netflix-Data-Analysis/
-│── notebook/        # Jupyter notebook file
-│── data/            # dataset (CSV)
-│── images/          # saved output charts
+│── notebook/ 
+│── data/ 
+│── images/ 
+│── requirements.txt
 │── README.md
 
 ---
