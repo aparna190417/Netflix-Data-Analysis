@@ -80,6 +80,8 @@ Netflix-Data-Analysis/
 ### Movies vs TV Shows
 ![Movies vs TV Shows](images/01_movies_vs_tvshows.png)
 
+### Release trend
+![release trend](images/02_release_trend.png)
 ### Top 10 Countries
 ![Top Countries](images/03_top_countries.png)
 
@@ -88,6 +90,22 @@ Netflix-Data-Analysis/
 
 ### Top Genres
 ![Genres](images/05_top_genres.png)
+
+### Movie Duration Distribution
+![Movie Duration](images/06_movie_duration.png)
+
+### Movies vs TV Shows Trend
+![Movies vs TV Trend](images/07_movies_tv_trend.png)
+
+### India: Movies vs TV Shows
+![India Movies vs TV Shows](images/08_india_movies_vs_tvshows.png)
+
+
+---
+
+## Power BI Dashboard
+
+![Netflix Dashboard](PowerBI_Dashboard/netflix_dashboard.png)
 
 ---
 
