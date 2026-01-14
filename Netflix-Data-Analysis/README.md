@@ -67,6 +67,7 @@ The dataset is a CSV file containing Netflix titles with metadata such as:
 ## Project Structure
 
 Netflix-Data-Analysis/
+|__ Powerbi_Dashboard/
 │── notebook/ 
 │── data/ 
 │── images/ 
@@ -102,16 +103,19 @@ Netflix-Data-Analysis/
 
 
 ---
-
 ## Power BI Dashboard
 
-![Netflix Dashboard](PowerBI_Dashboard/netflix_dashboard.png)
+### Dashboard Preview
+![Netflix Power BI Dashboard](PowerBI_Dashboard/netflix_dashboard.png)
+
+### Power BI File
+- `Netflix_Dashboard.pbix`
 
 ---
 
 ## Author
 
-Aparna Patel
+**Aparna Patel**
 
   
 
