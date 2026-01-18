@@ -1,38 +1,51 @@
-# Netflix Data Analysis
+# 🎬 Netflix Data Analysis (EDA + Power BI Dashboard)
 
-This project is a Python-based Exploratory Data Analysis (EDA) on the Netflix Movies & TV Shows dataset.
-The main goal is to understand Netflix content patterns like Movies vs TV Shows ratio, country distribution,
-popular genres, ratings, and year-wise trends using clean visualizations.
+This project includes a **Python-based Exploratory Data Analysis (EDA)** and a **Power BI interactive dashboard** on the Netflix Movies & TV Shows dataset.  
+The goal is today's Netflix content patterns like **Movies vs TV Shows distribution**, **country-wise content**, **popular genres**, **ratings**, and **year-wise trends** using clean visualizations and a premium dark-themed dashboard.
 
 ---
 
-## What I did in this project
+##  What I did in this project
 
+### Python EDA (Jupyter Notebook)
 - Loaded and explored the dataset
 - Cleaned missing values and formatted important columns (especially `date_added`)
 - Created useful features like `year_added`
 - Performed EDA and visualization using Matplotlib/Seaborn
 - Wrote key insights based on trends (countries, genres, ratings, duration)
 
+### Power BI Dashboard (Interactive)
+- Built a **Netflix Content Dashboard** with modern dark UI (HR reference style)
+- Created KPI cards for quick insights
+- Developed DAX measures for extracting top rating/genre
+- Added slicers for filtering by **Type** and **Country**
+- Designed the dashboard with a clean layout and Netflix branding
+
 ---
 
 ## Dataset
 
-The dataset is a CSV file containing Netflix titles with metadata such as:
+The dataset is a CSV file containing Netflix titles with metadata such as:  
 `type`, `title`, `director`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`.
 
 ---
 
 ## Tools used
 
+### Python Tools
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
+### Power BI Tools
+- Power BI Desktop
+- DAX (Measures & Calculated Columns)
+- Dashboard UI/UX Design (Dark Theme)
+
 ---
 
-## Main graphs included
+## Main graphs included (Python)
 
 - Movies vs TV Shows distribution  
 - Titles released over the years  
@@ -45,7 +58,7 @@ The dataset is a CSV file containing Netflix titles with metadata such as:
 
 ---
 
-## Key takeaways
+## Key takeaways (Python EDA)
 
 - Netflix has more Movies than TV Shows in this dataset.
 - Content releases increased heavily after 2015.
@@ -64,59 +77,34 @@ The dataset is a CSV file containing Netflix titles with metadata such as:
 - Duration column had mixed formats (minutes for movies and seasons for TV shows)
 
 ---
-## Project Structure
+
+##  Project Structure
 
 Netflix-Data-Analysis/
-|__ Powerbi_Dashboard/
-│── notebook/ 
-│── data/ 
-│── images/ 
+│── Powerbi_Dashboard/
+│── notebook/
+│── data/
+│── images/
 │── requirements.txt
 │── README.md
 
 ---
 
-## Sample Visualizations
+# Power BI Dashboard
 
-### Movies vs TV Shows
-![Movies vs TV Shows](images/01_movies_vs_tvshows.png)
-
-### Release trend
-![release trend](images/02_release_trend.png)
-### Top 10 Countries
-![Top Countries](images/03_top_countries.png)
-
-### Ratings Distribution
-![Ratings](images/04_ratings_distribution.png)
-
-### Top Genres
-![Genres](images/05_top_genres.png)
-
-### Movie Duration Distribution
-![Movie Duration](images/06_movie_duration.png)
-
-### Movies vs TV Shows Trend
-![Movies vs TV Trend](images/07_movies_tv_trend.png)
-
-### India: Movies vs TV Shows
-![India Movies vs TV Shows](images/08_india_movies_vs_tvshows.png)
-
+## 📸 Dashboard Preview
+![Power BI Dashboard](Powerbi_Dashboard/netflix_dashboard.png)
 
 ---
-## Power BI Dashboard
 
-### Dashboard Preview
-(PowerBi_Dashboard/netflix_dashboard.png)
-
-### Power BI File
-- `Netflix_Dashboard.pbix`
+## 📌 Power BI File
+- `Powerbi_Dashboard/Netflix_Dashboard.pbix`
 
 ---
 
 ## Author
 
 **Aparna Patel**
-
   
 
 
