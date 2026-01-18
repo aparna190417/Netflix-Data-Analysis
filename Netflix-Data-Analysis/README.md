@@ -93,7 +93,7 @@ Netflix-Data-Analysis/
 # Power BI Dashboard
 
 ## 📸 Dashboard Preview
-![Power BI Dashboard](Powerbi_Dashboard/netflix_dashboard.png)
+![Power BI Dashboard](PowerBi_Dashboard/netflix_dashboard.png) 
 
 ---
 
