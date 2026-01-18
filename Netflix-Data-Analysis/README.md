@@ -106,7 +106,7 @@ Netflix-Data-Analysis/
 ## Power BI Dashboard
 
 ### Dashboard Preview
-![Netflix Power BI Dashboard](PowerBI_Dashboard/netflix_dashboard.png)
+(PowerBi_Dashboard/netflix_dashboard.png)
 
 ### Power BI File
 - `Netflix_Dashboard.pbix`
