@@ -67,9 +67,11 @@ An interactive dashboard was built to present business-level insights visually.
 
 📁 Dashboard file: `powerbi_dashboard/Netflix_Dashboard.pbix`
 
-## 📊 Powerbi Dashboard preview
+## 📊 Power BI Dashboard Preview
+<p align="center">
+  <img src="powerbi_dashboard/Netflix-dashboard.png" width="800"/>
+</p>
 
-![PowerBi Dashboard](powerbi_dashboard/Netflix-dashboard.png)
 
 ---
 
@@ -87,8 +89,9 @@ An interactive Netflix analytics dashboard built using Streamlit with dynamic fi
 streamlit run app.py
 
 ## 🖥️ Streamlit Dashboard Preview
-
-![Python Dashboard](images/python_dashboard.png)
+<p align="center">
+  <img src="images/python_dashboard.png" width="800"/>
+</p>
 
 ---
 
