@@ -66,13 +66,7 @@ An interactive dashboard was built to present business-level insights visually.
 - ⭐ Ratings | Majority content is TV-MA and TV-14 |
 
 📁 Dashboard file: `powerbi_dashboard/Netflix_Dashboard.pbix`
-
-## 📊 Power BI Dashboard Preview
-<p align="center">
-  <img src="powerbi_dashboard/Netflix-dashboard.png" width="800"/>
-</p>
-
-
+>
 ---
 
 ## 🌐 Python Interactive Dashboard (Streamlit)
@@ -87,11 +81,6 @@ An interactive Netflix analytics dashboard built using Streamlit with dynamic fi
 
 ### Run the Dashboard
 streamlit run app.py
-
-## 🖥️ Streamlit Dashboard Preview
-<p align="center">
-  <img src="images/python_dashboard.png" width="800"/>
-</p>
 
 ---
 
