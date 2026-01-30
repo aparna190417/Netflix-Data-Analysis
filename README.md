@@ -64,9 +64,31 @@ An interactive dashboard was built to present business-level insights visually.
 - 🌍 Top Countries | USA and India lead content production |
 - 🎭 Top Genres | Drama and International content are most common |
 - ⭐ Ratings | Majority content is TV-MA and TV-14 |
-- ⏳ Movie Duration | Most movies are 80–120 minutes long |
 
 📁 Dashboard file: `powerbi_dashboard/Netflix_Dashboard.pbix`
+
+## 📊 Powerbi Dashboard preview
+
+![PowerBi Dashboard](powerbi_dashboard/Netflix-dashboard.png)
+
+---
+
+## 🌐 Python Interactive Dashboard (Streamlit)
+
+An interactive Netflix analytics dashboard built using Streamlit with dynamic filtering and visual storytelling.
+
+### Features
+- Animated KPI counters
+- Filters for Type, Country, Rating & Genre
+- Professional donut & trend charts
+- Download filtered dataset
+
+### Run the Dashboard
+streamlit run app.py
+
+## 🖥️ Streamlit Dashboard Preview
+
+![Python Dashboard](images/python_dashboard.png)
 
 ---
 
@@ -112,13 +134,14 @@ Netflix-Data-Analysis/
 
 ## ⚙️ Tools & Technologies
 
-| Tool | Purpose |
-|------|---------|
-| Python | Data cleaning & EDA |
-| Pandas | Data manipulation |
-| Matplotlib & Seaborn | Visualization |
-| Power BI | Interactive dashboard |
-| Jupyter Notebook | Analysis workflow |
+| Skill | Proof in Repo |
+|------|----------------|
+| Python EDA | Jupyter Notebook |
+| Data Cleaning | Notebook Code |
+| Data Visualization | Python + Seaborn |
+| BI Dashboard | Power BI file |
+| Web App Dashboard | Streamlit app.py |
+| Documentation | Professional README |
 
 ---
 
